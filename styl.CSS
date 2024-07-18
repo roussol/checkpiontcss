@@ -1,0 +1,14 @@
+body{ background-color: rgba(159, 191, 228, 0.514);
+    
+}
+.AS{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgba(73, 73, 40, 0.466);
+}
+button{
+    margin-left: 50%;
+}
+.AS img{
+    margin-left: 50%;
+}
